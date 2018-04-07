@@ -1,0 +1,31 @@
+{
+  "name": "react-flux-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate project for React and Flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrzarkovic/react-flux-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrzarkovic/react-flux-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mrzarkovic/react-flux-boilerplate#readme",
+  "devDependencies": {
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*",
+    "object-assign": "*"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  }
+}
